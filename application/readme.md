@@ -1,5 +1,5 @@
-Il faut lancer avec fichier bin,
+Il faut lancer avec le fichier bin,
 
-le contenu de ce dossier doivent etres inseparable
+Le contenu de ce dossier doit être inséparable.
 
-source:https://github.com/fitia2023/documentation_pharmagest/tree/main/application
+Source: [documentation_pharmagest/application](https://github.com/fitia2023/documentation_pharmagest/tree/main/application)
